@@ -1,0 +1,27 @@
+.session{
+    display: flex;
+    align-items: center;
+}
+
+
+.demo-div {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+.box{
+    display: flex;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.paragraph-icon{
+    display: flex;
+    align-items: center;
+}
